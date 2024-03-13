@@ -1,0 +1,252 @@
+C,PDF,title,(source) id
+1,1,QX: A high-performance quantum computer simulation platform,10.23919/DATE.2017.7
+0,1,Quantum Computing: An Applied Approach,10.1007/978-3-030-23
+0,1,Sign-problem free quantum stochastic series expansion algorithm on a quantum computer,10.1038/s41534-022-0
+0,0,A Survey of Quantum Computing for Cloud Security,10.1201/978100328761
+0,1,"Considering the Implications of Artificial Intelligence, Quantum Computing, and Cybersecurity",10.1109/CSCI58124.20
+1,1,Quantum Programming on Azure Quantum—An Open Source Tool for Quantum Developers,10.1007/978-981-19-9
+1,1,The engineering challenges in quantum computing,10.23919/DATE.2017.7
+1,1,JKQ: JKU Tools for Quantum Computing,10.1145/3400302.3415
+1,1,Leveraging Quantum Computing for Supervised Classification,10.1109/ICICCS48265.
+-,0,Quantum computing techniques assessment and representation,10.1002/978139416740
+0,1,Towards Reliable Distributed Quantum Computing on Quantum Interconnects,10.1145/3594671.3594
+0,1,Graphical Language with Delayed Trace: Picturing Quantum Computing with Finite Memory,10.1109/LICS52264.20
+,1,The Impact of Quantum Computing on Security in Emerging Technologies,10.1145/3508072.3508
+,1,Fast training of fully-connected Boltzmann Machines on an Adiabatic Quantum Computer,10.1109/QCE57702.202
+,1,Classification Problem in a Quantum Framework,10.1007/978-3-319-74
+,1,On the potentials of quantum computing ? An interview with Heike Riel from IBM Research,10.1007/s12525-022-0
+,0,Quantumedics: Brain Tumor Diagnosis and Analysis Based on Quantum Computing and Convolutional Neural Network,10.1007/978-3-031-43
+,1,Quantum Computing Management of a Cloud/Edge Architecture,10.1145/3587135.3592
+,1,Adiabatic quantum computing for max-sum diversification,10.1137/1.9781611976
+,1,Jellyfish: A modular code for wave function-based electron dynamics simulations and visualizations on traditional and quantum compute architectures,10.1002/wcms.1696
+,1,Network Intelligence with Quantum Computing in 6G and B6G: Design Principles and Future Directions,10.1109/GCWkshps5274
+,1,Universal blind quantum computation for hybrid system,10.1007/s11128-017-1
+,1,Exploring the Limitations of Hybrid Adiabatic Quantum Computing for Emission Tomography Reconstruction,10.3390/jimaging9100
+,0,Analysis of Quantum Computing with Food Processing Use Case,10.1201/978100326781
+,1,Quantum Computing for Image Processing and Artificial Vision: Innovations in Advanced Quantum Physics,10.1109/PAIS60821.20
+,1,Towards a Quantum Software Modeling Language,10.1145/3387940.3392
+,1,MAQA: a quantum framework for supervised learning,10.1007/s11128-023-0
+0,0,Qubit representation of a binary tree and its operations in quantum computation,10.1016/bs.adcom.202
+,1,Adapting cobit for quantum computing governance,10.1007/978-3-030-58
+,1,ShorVis: A comprehensive case study of quantum computing visualization,10.1109/ICVRV.2017.0
+0,0,CCCE: Cryptographic cloud computing environment based on quantum computations,10.4018/978-1-4666-9
+,1,The Quantum software lifecycle,10.1145/3412451.3428
+,1,Quantum machine learning-using quantum computation in artificial intelligence and deep neural networks: Quantum computation and machine learning in artificial intelligence,10.1109/IEMECON.2017
+,1,Comparative Analysis of Quantum Computing Algorithm,10.1109/ACCTHPA57160
+,1,Quantum Computing Techniques for?Multi-knapsack Problems,10.1007/978-3-031-37
+,1,Empirical Investigation of Quantum Computing on Solving Complex Problems,10.1007/978-3-031-48
+,1,Quantum computing challenges in the software industry. A fuzzy AHP-based approach,10.1016/j.infsof.202
+,1,Quantum Computers for High-Performance Computing,10.1109/MM.2021.3099
+,1,Quantum software tools overview,10.1007/978-3-031-05
+,1,Quantum Computing in the Cloud: Analyzing job and machine characteristics,10.1109/IISWC53511.2
+,1,Quantum Computing Methods for Supply Chain Management,10.1109/SEC54971.202
+,1,Design and Development of Superconducting-quantum-computer System,10.53829/ntr202311fa
+,1,Automatic Implementation and Evaluation of Error-Correcting Codes for Quantum Computing: An Open-Source Framework for Quantum Error Correction,10.1109/VLSID57277.2
+,1,MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform,10.1109/ICSE48619.20
+,1,QSSA: An SSA-Based IR for Quantum Computing,10.1145/3497776.3517
+0,0,Quantum Computing-Based Image Representation with IBM QISKIT Libraries,10.1201/978100337138
+,1,The Chronus Quantum software package,10.1002/wcms.1436
+,1,Distributed quantum computation-how does it scale?,10.1109/IPC47351.202
+,1,Maritime applications of quantum computation,10.23919/oceans.2015
+,1,Can artificial intelligence benefit from quantum computing?,10.1007/s13748-014-0
+,1,Practical Quantum Computing,10.1145/3430030
+,1,Integrating quantum computing into workflow modeling and execution,10.1109/UCC48980.202
+,1,PBS-calculus: A graphical language for coherent control of quantum computations,10.4230/LIPIcs.MFCS.
+,1,Comparing Quantum Computing Platforms,10.1007/978-3-030-98
+,1,Quantum Nodes: Quantum Computing Applied to 3D Modeling,10.1145/3450618.3469
+,1,Q#: Enabling scalable quantum computing and development with a high-level DSL,10.1145/3183895.3183
+,1,On new PageRank computation methods using quantum computing,10.1007/s11128-023-0
+,1,Quantum Computing based Implementation of Full Adder,10.1109/INOCON50539.
+,1,Building a quantum computer (invited),10.1145/3414622.3431
+,1,IBM's Qiskit Tool Chain: Working with and Developing for Real Quantum Computers,10.23919/DATE.2019.8
+,1,QBugs: A Collection of Reproducible Bugs in Quantum Algorithms and a Supporting Infrastructure to Enable Controlled Quantum Software Testing and Debugging Experiments,10.1109/Q-SE52541.20
+,,Quantum software development lifecycle,10.1007/978-3-031-05
+,,Towards Recommender Systems with Community Detection and Quantum Computing,10.1145/3523227.3551
+,,Image segmentation on a quantum computer,10.1007/s11128-015-0
+,,Quantum computing and deep learning working together to solve optimization problems,10.1109/CSCI49370.20
+,,From classical computing to quantum computing,10.1109/DAAS.2014.68
+,,ArQTiC: A Full-stack Software Package for Simulating Materials on Quantum Computers,10.1145/3511715
+,,Quantum Computers: Theory and Algorithms,10.1007/978-981-19-7
+,,Quantum computation in robotic science and applications,10.1109/ICRA.2019.87
+,,An Application Framework for Quantum Computing using Artificial intelligence Techniques,10.1109/INBUSH46973.
+,,Focusing on the hybrid quantum computing - Tabu search algorithm: New results on the Asymmetric Salesman Problem,10.1145/3449726.3463
+,,Implementing Grover's Algorithm on the IBM Quantum Computers,10.1109/BigData.2018
+,,Flexible representation and manipulation of audio signals on quantum computers,10.1016/j.tcs.2017.1
+,,Selection of quantum computing architecture using a decision tree approach,10.1109/ICISS49785.2
+,,Designing calibration and expressivity-efficient instruction sets for quantum computing,10.1109/ISCA52012.20
+,,Comparing Quantum Software Development Kits for Introductory Level Education,10.22364/BJMC.2022.1
+,,Designing Quantum Computers,10.53829/ntr202105fa
+,,The Impact Of Quantum Computing In Evolutionary Algorithms,10.1109/DASA59624.20
+,,Benchmarking and Analysis of Noisy Intermediate-Scale Trapped Ion Quantum Computing Architectures,10.1109/QCE53715.202
+,,Automatic oracle generation in microsoft's quantum development kit using QIR and LLVM passes,10.1145/3489517.3530
+,,A Gate-Level Approach to Compiling for Quantum Computers,10.1109/IGCC.2018.87
+,,Full-stack quantum computing systems in the NISQ era: algorithm-driven and hardware-aware compilation techniques,10.23919/DATE54114.2
+,,Solving Scheduling Problems with Quantum Computing: a Study on Flexible Open Shop,10.1145/3583133.3596
+,,Quantum Computer and Quantum Algorithm Benchmarking,10.18420/inf2022_100
+,,Quantum Computing Solutions: Solving Real-World Problems Using Quantum Computing and Algorithms,10.1007/978-1-4842-6
+,,QPLEX: Realizing the Integration of Quantum Computing into Combinatorial Optimization Software,10.1109/QCE57702.202
+,,Scaffcc: A framework for compilation and analysis of quantum computing programs,10.1145/2597917.2597
+,,Empirical Analysis of Quantum Compution using Qiskit Framework,10.1109/ICACCS57279.
+,,Creating a vector processor based on quantum computing,10.1109/EIConRus.201
+,,Benchmarking Neural Networks for Quantum Computations,10.1109/TNNLS.2019.2
+,,Performance of C++ language code in quantum computing environment,10.1007/978-981-15-1
+,,A hybrid approach for solving optimization problems on small quantum computers,10.1109/MC.2019.2908
+,,Anatomy of Quantum Computer Framework using Qiskit,10.1109/INCET57972.2
+,,Quantum software models: Density matrix for universal software design,10.1007/978-3-031-05
+,,A non-algorithmic approach to 'programming' quantum computers via machine learning,10.1109/QCE49297.202
+,,A functional architecture for scalable quantum computing,10.1109/ICRC.2016.77
+,,"Practical quantum computing for developers: Programming quantum rigs in the cloud using Python, quantum assembly language and IBM Qexperience",10.1007/978-1-4842-4
+,,Survey of Open-Source Tools/Industry Tools to Develop Quantum Software,10.1007/978-981-19-9
+,,Approaching Quantum Utility by Leveraging Quantum Software Stack,10.1109/ELIT61488.20
+,,"Quantum Computing: Architectures, Circuits, Algorithms",10.1109/NAECON46414.
+,,A quantum software modeling language,10.1007/978-3-031-05
+,,quAPL: Modeling Quantum Computation in an Array Programming Language,10.1109/QCE57702.202
+,,Facial expression recognition on a quantum computer,10.1007/s42484-020-0
+,,Quantum Computing Meets Deep Learning: A Promising Approach for Diabetic Retinopathy Classification,10.3390/math11092008
+,,Hyper-Spectral Image Classification Using Adiabatic Quantum Computation,10.1109/IGARSS52108.
+,,Toward implementing efficient image processing algorithms on quantum computers,10.1007/s00500-021-0
+,,Automatic Diagnosis of Quantum Software Bug-Fix Motifs,10.18293/SEKE2023-19
+,,Quantum computing: A software engineering approach,10.1002/978139416740
+,,Construction and evaluation of gold standards for patent classification?A case study on quantum computing,10.1016/j.wpi.2020.1
+,,Quantum software development with classiq,10.1007/978-3-031-05
+,,An enhanced study of quantum computing in the view of machine learning,10.4018/978-1-6684-7
+,,Quantum DevOps: Towards Reliable and Applicable NISQ Quantum Computing,10.1109/GCWkshps5030
+,,Unraveling quantum computing system architectures: An extensive survey of cutting-edge paradigms,10.1016/j.infsof.202
+,,Computer systems architecture vs quantum computer,10.1109/ICCONS.2017.
+,,Understanding Quantum Computation Concepts and Applications,10.1007/978-3-030-57
+,,Introducing Microsoft Quantum Computing for Developers: Using the Quantum Development Kit and Q#,10.1007/978-1-4842-7
+,,A monadic semantics for quantum computing in featherweight java,10.1007/978-3-319-45
+,,Compendium of Qubit Technologies in?Quantum Computing,10.1007/978-981-99-2
+,,"A study of complex deep learning networks on high performance, neuromorphic, and quantum computers",10.1109/MLHPC.2016.9
+,,Computational Results for a Quantum Computing Application in Real-Life Finance,10.1109/QCE57702.202
+,,Qubits or Symbolic Substitutions for General-Purpose Quantum Computing?,10.1109/ITNG.2015.11
+,,Making Quantum Computing Open: Lessons from Open Source Projects,10.1145/3387940.3391
+,,A Hybrid Application of Quantum Computing Methodologies to AI Techniques for Paddy Crop Leaf Disease Identification,10.1007/978-3-031-35
+,,Solving hard problems on adiabatic quantum computers,10.1109/CSCS.2015.10
+,,Quantum Software Architecture Blueprints for the Cloud: Overview and Application to Peer-2-Peer Energy Trading,10.1109/SusTech57309
+,,1stWorkshop on Quantum Software Architecture (QSA),10.1109/ICSA-C52384.
+,,Quantum Computing in Image Processing,10.3233/ATDE221232
+,,Analysis of classical and quantum computing based on grover and shor algorithm,10.1007/978-981-10-5
+,,Quantum software frameworks for deep learning,10.1007/978-3-031-05
+,,Opportunities and Challenges of Quantum Computing for Engineering Optimization,10.1115/1.4062969
+,,Optimizing Resource Efficiencies for Scalable Full-Stack Quantum Computers,10.1103/PRXQuantum.4
+,,TenCirChem: An Efficient Quantum Computational Chemistry Package for the NISQ Era,10.1021/acs.jctc.3c0
+,,OSC-Qasm: Interfacing Music Software with?Quantum Computing,10.1007/978-3-031-29
+,,A Study and Analysis of Applications of?Classical Computing and Quantum Computing: A Survey,10.1007/978-981-15-8
+,,QuComm: Optimizing Collective Communication for Distributed Quantum Computing,10.1145/3613424.3614
+,,From evolution to revolution: The contemporary development of quantum computing,10.1515/978311079140
+,,A Deep-Learning-Based Proposal to Aid Users in Quantum Computing Programming,10.1007/978-3-319-91
+,,Mixed-Integer Programming Using a Bosonic Quantum Computer,10.1109/QCE57702.202
+,,Optimizing Transaction Schedules on Universal Quantum Computers via Code Generation for Grover's Search Algorithm,10.1145/3472163.3472
+,,Quantum computing based technique for cancer disease detection system,10.4018/978-1-5225-0
+,,Automatically solving NP-complete problems on a quantum computer,10.1145/3183440.3194
+,,QAC: Quantum-Computing Aided Composition,10.1007/978-3-031-13
+,,"Quantum-computing with AI & blockchain: modelling, fault tolerance and capacity scheduling",10.1080/13873954.201
+,,A QCNN Algorithm Deployed on A Quantum Computer,10.1109/CCPQT56151.2
+,,Optimized Machine Learning: Training and Classification Performance Using Quantum Computing,10.1109/ICCCA52192.2
+,,"Models of a quantum computer, their characteristics and analysis",10.1109/ICAICT.2015.
+,,Quantum natural language processing on near-term quantum computers,10.4204/EPTCS.340.11
+,,QHDL: a Low-Level Circuit Description Language for Quantum Computing,10.1145/3587135.3592
+,,A Software Development Kit and Translation Layer for Executing Intel 8080 Assembler on a Quantum Computer (August 2022),10.1109/TQE.2022.320
+,,Solving Partial Differential Equations using a Quantum Computer,10.1109/QCE53715.202
+,,"Full-stack, real-system quantum computer studies: Architectural comparisons and design insights",10.1145/3307650.3322
+,,Quantum computational imaging and sensing,10.1117/12.2680837
+,,Unleashing the Power of Generative AI and Quantum Computing for Mutual Advancements,10.1109/ASIANCON5879
+,,Quantum computing and artificial neural network for classificationand time series prediction,10.1109/HORA55278.20
+,,A Software Platform for Programmable Linear Optical Quantum Computer,10.1109/ACCESS.2023.
+,,A Quantum Computing Programming Language for Transparent Experiment Descriptions,10.1109/QCE52317.202
+,,Architecture and software implementation of a quantum computer model,10.1007/978-3-319-33
+,,Challenges and Opportunities: Quantum Computing in Machine Learning,10.1109/I-SMAC47947.
+,,A Testing Pipeline for Quantum Computing Applications,10.1109/QSW59989.202
+,,Designing a virtual reality programming environment for quantum computers,10.1002/cae.22481
+,,A heterogeneous quantum computer architecture,10.1145/2903150.2906
+,,Quantum software development with quantumpath?,10.1007/978-3-031-05
+,,Using quantum computing to solve the maximal covering location problem,10.1007/s43762-022-0
+,,A complete restricted Boltzmann machine on an adiabatic quantum computer,http://dx.doi.org/10
+,,Quantum computing based hybrid solution strategies for large-scale discrete-continuous optimization problems,http://dx.doi.org/10
+,,Functional simulation of real-time quantum control software,http://dx.doi.org/10
+,,Effective route generation framework using quantum mechanism-based multi-directional and parallel ant colony optimization,http://dx.doi.org/10
+,,The Useful Quantum Computing Techniques for Artificial Intelligence Engineers,http://dx.doi.org/10
+,,QuantumPath: A quantum software development platform,http://dx.doi.org/10
+,,QuCAT: A Combinatorial Testing Tool for Quantum Software,http://dx.doi.org/10
+,,Quantum Computing for Software Engineering: Prospects,http://dx.doi.org/10
+,,Private Computation of Phylogenetic Trees Based on Quantum Technologies,http://dx.doi.org/10
+,,"A Study of Complex Deep Learning Networks on High Performance, Neuromorphic, and Quantum Computers",http://dx.doi.org/10
+,,Multi-party blind quantum computation protocol with mutual authentication in network,http://dx.doi.org/10
+,,Experiences in Quantum Software Engineering,http://dx.doi.org/10
+,,Developing Programming Assignments for Teaching Quantum Computing and Quantum Programming,http://dx.doi.org/10
+,,An Empirical Study of Bugs in Quantum Machine Learning Frameworks,http://dx.doi.org/10
+,,Modeling and designing a robotic swarm: A quantum computing approach,http://dx.doi.org/10
+,,Towards Higher-Level Abstractions for Quantum Computing,http://dx.doi.org/10
+,,A Novel Hybrid Quantum-Classical Framework for an In-Vehicle Controller Area Network Intrusion Detection,http://dx.doi.org/10
+,,The Design and Implementation of Quantum Finance Software Development Kit (QFSDK) for AI Education,http://dx.doi.org/10
+,,A Novel Quantum-inspired Evolutionary Computation-based Quantum Circuit Synthesis for Various Universal Gate Libraries,http://dx.doi.org/10
+,,Implementation of Shor's Algorithm and Reliability of Quantum Computing Devices,http://dx.doi.org/10
+,,Formal Meta-level Analysis Framework for Quantum Programming Languages,http://dx.doi.org/10
+,,Toward a Complete Software Stack to Integrate Quantum Key Distribution in a Cloud Environment,http://dx.doi.org/10
+,,A Quantum Computer Trusted Execution Environment,http://dx.doi.org/10
+,,"Species, Profunctors and Taylor ExpansionWeighted by SMCC A Unified Framework for Modelling Nondeterministic, Probabilistic and QUantum Programs",http://dx.doi.org/10
+,,D-NISQ: A reference model for Distributed Noisy Intermediate-Scale Quantum computers,http://dx.doi.org/10
+,,Applying Quantitative Semantics to Higher-Order Quantum Computing,http://dx.doi.org/10
+,,QuantumCircuitOpt: An Open-source Framework for Provably Optimal Quantum Circuit Design,http://dx.doi.org/10
+,,Embedding and Implementation of Quantum Computational Concepts in Digital Narratives,http://dx.doi.org/10
+,,Solving Hard Problems on Adiabatic Quantum Computers,http://dx.doi.org/10
+,,A Hybrid Approach for Solving Optimization Problems on Small Quantum Computers,http://dx.doi.org/10
+,,Development and Research of Quantum Models for Image Conversion,http://dx.doi.org/10
+,,TBTK: A quantum mechanics software development kit,http://dx.doi.org/10
+,,QCOR: A Language Extension Specification for the Heterogeneous Quantum-Classical Model of Computation,http://dx.doi.org/10
+,,Quantum healthcare computing using precision based granular approach,http://dx.doi.org/10
+,,QSW_MPI: A framework for parallel simulation of quantum stochastic walks,http://dx.doi.org/10
+,,QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment,http://dx.doi.org/10
+,,Adiabatic Quantum Computing for Multi Object Tracking,http://dx.doi.org/10
+,,High-Performance Computing with Quantum Processing Units,http://dx.doi.org/10
+,,Uquantchem: A versatile and easy to use quantum chemistry computational software,http://dx.doi.org/10
+,,|Lib?: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,http://dx.doi.org/10
+,,Insights from incorporating quantum computing into drug design workflows,http://dx.doi.org/10
+,,Credit Risk Analysis Using Quantum Computers,http://dx.doi.org/10
+,,"Full-Stack, Real-System Quantum Computer Studies: Architectural Comparisons and Design Insights",http://dx.doi.org/10
+,,Muskit: A Mutation Analysis Tool for Quantum Software Testing,http://dx.doi.org/10
+,,A Monadic Semantics for Quantum Computing in Featherweight Java,http://dx.doi.org/10
+,,An Introduction to Quantum Computing and Its Application,http://dx.doi.org/10
+,,"Quantum Computing is Getting Real: Architecture, PL, and OS Roles in Closing the Gap between Quantum Algorithms and Machines",http://dx.doi.org/10
+,,Qubits or Symbolic Substitutions for General-purpose Quantum Computing?,http://dx.doi.org/10
+,,Integrating Quantum Computing into Workflow Modeling and Execution,http://dx.doi.org/10
+,,Recommending Solution Paths for Solving Optimization Problems with Quantum Computing,http://dx.doi.org/10
+,,Understanding Quantum Software Engineering Challenges An Empirical Study on Stack Exchange Forums and GitHub Issues,http://dx.doi.org/10
+,,Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers,http://dx.doi.org/10
+,,Deploying Containerized QuanEX Quantum Simulation Software on HPC Systems,http://dx.doi.org/10
+,,Artificial intelligence and a universal quantum computer,http://dx.doi.org/10
+,,QDiff: Differential Testing of Quantum Software Stacks,http://dx.doi.org/10
+,,QuantumOptics.jl: A Julia framework for simulating open quantum systems,http://dx.doi.org/10
+,,A Monte Carlo Tree Search Framework for Quantum Circuit Transformation,http://dx.doi.org/10
+,,Quantum Computing for Supply Chain Finance,http://dx.doi.org/10
+,,Tierkreis: a Dataflow Framework for Hybrid Quantum-Classical Computing,http://dx.doi.org/10
+,,Chromatic framework for quantum movies and applications in creating montages,http://dx.doi.org/10
+,,JKQ: JKU Tools for Quantum Computing (Invited Paper),http://dx.doi.org/10
+,,Real-time hybrid quantum-classical computations for trapped ions with Python control-flow,http://dx.doi.org/10
+,,qeirreps: An open-source program for Quantum ESPRESSO to compute irreducible representations of Bloch wavefunctions,http://dx.doi.org/10
+,,DCA plus plus : A software framework to solve correlated electron problems with modern quantum cluster methods,http://dx.doi.org/10
+,,Quantum Vs Classical Computing: a Comparative Analysis,http://dx.doi.org/10
+,,Modular software for real-time quantum control systems,http://dx.doi.org/10
+,,Compiler and Language Design for Quantum Computing,http://dx.doi.org/10
+,,Programming Quantum Computers: A Primer with IBM Q and D-Wave Exercises,http://dx.doi.org/10
+,,A Comprehensive but not Complicated Survey on Quantum Computing,http://dx.doi.org/10
+,,A control microarchitecture for fault-tolerant quantum computing,http://dx.doi.org/10
+,,qPCF: A Language for Quantum Circuit Computations,http://dx.doi.org/10
+,,Invited: Building Robust Quantum System Software for Technology-Specific Characteristics,http://dx.doi.org/10
+,,Building a Quantum Computer (Invited),http://dx.doi.org/10
+,,Automatically Solving NP-Complete Problems on a Quantum Computer,http://dx.doi.org/10
+,,The impact of quantum computing on real-world security: A 5G case study,http://dx.doi.org/10
+,,A Quantum Mechanics-Based Framework for EEG Signal Feature Extraction and Classification,http://dx.doi.org/10
+,,Using Open API for the Development of Hybrid Classical-Quantum Services,http://dx.doi.org/10
+,,Machine Learning Algorithms in Quantum Computing: A Survey,http://dx.doi.org/10
+,,Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL,http://dx.doi.org/10
+,,Software Tools for Decoding Quantum Low-Density Parity-Check Codes,http://dx.doi.org/10
+,,Quantum Key Distribution Protocol with Four-State Systems - Software Implementation,http://dx.doi.org/10
+,,A New Framework Containing Convolution and Pooling Circuits for Image Processing and Deep Learning Applications with Quantum Computing Implementation,http://dx.doi.org/10
+,,An open-source modular framework for quantum computing,http://dx.doi.org/10
+,,Quantum machine learning framework for virtual screening in drug discovery: a prospective quantum advantage,http://dx.doi.org/10
+,,<i>OSC</i>-<i>Qasm</i>: Interfacing Music Software with Quantum Computing,http://dx.doi.org/10
+,,A language and hardware independent approach to quantum-classical computing,http://dx.doi.org/10
+,,MISTIQS: An open-source software for performing quantum dynamics simulations on quantum computers,http://dx.doi.org/10
+,,OpenQL: A Portable Quantum Programming Framework for Quantum Accelerators,http://dx.doi.org/10
