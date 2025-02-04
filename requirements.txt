@@ -1,6 +1,7 @@
-qiskit==1.1.1
-qiskit-aer==0.14.2
-qiskit-ibm-runtime==0.25.0
+qiskit==1.2.1
+qiskit-aer
+qiskit-ibm-runtime
 wordcloud==1.9.3
 nltk==3.9.1
 PyPDF2==3.0.1
+pylatexenc
